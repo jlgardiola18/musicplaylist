@@ -34,7 +34,7 @@
 
 .container .box-container .box {
     border-radius: 10px;
-    background: #fff;
+    background: white;
     box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
     padding: 15px;
     cursor: pointer;
@@ -83,7 +83,7 @@
 
 .container .box-container .box .content h3 {
     font-size: 20px;
-    color: #333;
+    color: black;
 }
 
 .music-player {
@@ -91,7 +91,7 @@
     bottom: -125px;
     left: 0;
     right: 0;
-    background: #fff;
+    background: rgba(0, 0, 0, .9);
     z-index: 1000;
 }
 
@@ -105,7 +105,7 @@
     border-top: 3px solid #333;
     border-bottom: 1px solid #333;
     text-align: center;
-    color: #333;
+    color: white;
     padding: 10px;
 }
 
